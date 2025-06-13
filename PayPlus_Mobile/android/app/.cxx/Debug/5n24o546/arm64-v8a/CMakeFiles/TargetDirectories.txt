@@ -1,0 +1,2 @@
+C:/Users/Andrewinnn/Desktop/payplusmobile/PayPlus_Mobile/android/app/.cxx/Debug/5n24o546/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Andrewinnn/Desktop/payplusmobile/PayPlus_Mobile/android/app/.cxx/Debug/5n24o546/arm64-v8a/CMakeFiles/rebuild_cache.dir
