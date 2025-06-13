@@ -4,17 +4,6 @@ PayPlus is a full-stack personal finance management platform designed to help us
 
 ---
 
-## 📁 Project Structure
-
-PayPlus/
-│
-├── payplus_backend/ # Node.js + Express backend API
-├── PayPlus_FE/ # Frontend (React + Vite)
-├── PayPlus_Mobile/ # Mobile application (Flutter)
-└── README.md # Main project readme
-
----
-
 ## 🚀 Features
 
 - 💰 Track income, expenses, and savings
