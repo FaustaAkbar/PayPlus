@@ -49,8 +49,6 @@ PayPlus/
 ## 📦 Getting Started
 
 ### Clone the Repository
-
-```bash
 git clone https://github.com/FaustaAkbar/PayPlus.git
 cd PayPlus
 
