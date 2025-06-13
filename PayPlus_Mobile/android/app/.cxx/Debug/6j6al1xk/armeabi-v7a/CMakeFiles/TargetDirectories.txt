@@ -1,0 +1,2 @@
+C:/File Kuliah/Semester 6/ABP/PayPlus_Mobile/android/app/.cxx/Debug/6j6al1xk/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/File Kuliah/Semester 6/ABP/PayPlus_Mobile/android/app/.cxx/Debug/6j6al1xk/armeabi-v7a/CMakeFiles/rebuild_cache.dir

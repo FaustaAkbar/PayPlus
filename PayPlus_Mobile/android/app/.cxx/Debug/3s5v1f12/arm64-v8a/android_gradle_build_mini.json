@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\iania\\Downloads\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\iania\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\iania\\Downloads\\PayPlus_Mobile\\android\\app\\.cxx\\Debug\\3s5v1f12\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\iania\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\iania\\Downloads\\PayPlus_Mobile\\android\\app\\.cxx\\Debug\\3s5v1f12\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+C:/Users/iania/Downloads/PayPlus_Mobile/android/app/.cxx/Debug/3s5v1f12/x86/CMakeFiles/edit_cache.dir
+C:/Users/iania/Downloads/PayPlus_Mobile/android/app/.cxx/Debug/3s5v1f12/x86/CMakeFiles/rebuild_cache.dir
