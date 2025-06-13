@@ -136,15 +136,18 @@ PORT=3000
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📞 Support
 
 If you encounter any issues or have questions:
 - 📧 Email: zaidanrandih61@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/FaustaAkbar/PayPlus/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/FaustaAkbar/PayPlus/discussions)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
