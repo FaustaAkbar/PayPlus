@@ -144,7 +144,7 @@ export const LandingPage = () => {
               <div className="relative">
                 <div className="relative">
                   <img 
-                    src="https://raw.githubusercontent.com/FaustaAkbar/PayPlus/6b8d9017a6ea107fce260de7a5869f3a4107585a/PayPlus_FE/public/dasboard.png" 
+                    src="public/dasboard.png" 
                     alt="Finance Dashboard" 
                     className="rounded-2xl shadow-2xl transition-all duration-500 transform hover:-rotate-1 hover:scale-105 z-10"
                   />
