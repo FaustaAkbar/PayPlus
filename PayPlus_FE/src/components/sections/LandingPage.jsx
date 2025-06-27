@@ -32,7 +32,7 @@ export const LandingPage = () => {
               <img 
                 id="logo" 
                 className="h-10 w-auto transition-all duration-300" 
-                src="https://github.com/ThePayPlus/PayPlus_FE/blob/main/public/Logo.png?raw=true" 
+                src="https://github.com/FaustaAkbar/PayPlus/blob/main/PayPlus_FE/public/dasboard.png?raw=true" 
                 alt="PayPlus Logo" 
               />
             </div>
