@@ -377,7 +377,7 @@ export const Dashboard = () => {
 
                 {/* Balance Card */}
                 <div className="md:w-1/2 bg-white rounded-xl shadow-sm overflow-hidden">
-                  <div className="bg-blue-600 p-6 text-white">
+                  <div className="bg-indigo-600 p-6 text-white">
                     <div className="flex justify-between items-start mb-4">
                       <div>
                         <div className="flex items-center space-x-2">

@@ -32,7 +32,7 @@ export const LandingPage = () => {
               <img 
                 id="logo" 
                 className="h-10 w-auto transition-all duration-300" 
-                src="https://github.com/FaustaAkbar/PayPlus/blob/main/PayPlus_FE/public/dasboard.png?raw=true" 
+                src="https://github.com/ThePayPlus/PayPlus_FE/blob/main/public/Logo.png?raw=true" 
                 alt="PayPlus Logo" 
               />
             </div>
@@ -144,7 +144,7 @@ export const LandingPage = () => {
               <div className="relative">
                 <div className="relative">
                   <img 
-                    src="https://github.com/ThePayPlus/PayPlus_FE/blob/main/public/dasboard.png?raw=true" 
+                    src="https://raw.githubusercontent.com/FaustaAkbar/PayPlus/6b8d9017a6ea107fce260de7a5869f3a4107585a/PayPlus_FE/public/dasboard.png" 
                     alt="Finance Dashboard" 
                     className="rounded-2xl shadow-2xl transition-all duration-500 transform hover:-rotate-1 hover:scale-105 z-10"
                   />
@@ -300,7 +300,7 @@ export const LandingPage = () => {
                 </div>
                 <p className="text-gray-600 mb-8 text-lg italic">Pakai PayPlus, ngatur uang jadi jauh lebih simpel. Fiturnya lengkap, gampang dipahami, dan bikin budgeting terasa ringan dan menyenangkan. Top deh pokoknya 😊</p>
                 <div className="flex items-center">
-                  <img src="https://i.pravatar.cc/60?img=1" alt="User" className="w-14 h-14 rounded-full border-4 border-white shadow-md mr-4" />
+                  <img src="https://i.pravatar.cc/150?img=40" alt="User" className="w-14 h-14 rounded-full border-4 border-white shadow-md mr-4" />
                   <div>
                     <h4 className="text-lg font-bold text-gray-800">Putri Andini Wijaya</h4>
                   </div>
